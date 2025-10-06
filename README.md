@@ -20,7 +20,7 @@ First of all, you must have **g++** installed (very Linux distro must have this 
 The file should be packaged in the.deb format. Just do this. 
 * `dpkg-deb --build poincare`
 
-**You must have dpkg-dev installed in Debian and Ubuntu-based distributions to build the package. **
+**You must have dpkg-dev installed in Debian and Ubuntu-based distributions to build the package.**
 
 
 ## FOR ANDROID USERS.
@@ -43,5 +43,6 @@ There is a bug that causes that, when entering the variable (4x), the result is 
 ## SUPPORT ME 
 
 [Donate via PayPal](https://paypal.me/hugof390)
+
 
 
