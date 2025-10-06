@@ -1,0 +1,2 @@
+// file: source.rc
+IDI_ICON1 ICON "assets/poincare.ico"
